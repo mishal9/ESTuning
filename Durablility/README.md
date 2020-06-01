@@ -1,4 +1,4 @@
-# Elasticsearch Stress Test
+# Elasticsearch Durability Test
 
 ### Overview
 This script generates a bunch of documents, and indexes as much as it can to Elasticsearch. While doing so, it prints out metrics to the screen to let you follow how your cluster is doing.
