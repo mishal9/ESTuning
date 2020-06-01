@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# documentation
-# https://github.com/logzio/elasticsearch-stress-test
 
 indices=5
 documents=2
