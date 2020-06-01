@@ -2,7 +2,6 @@
 
 #
 # Stress test tool for elasticsearch
-# Written by Roi Rav-Hon @ Logz.io (roi@logz.io)
 #
 
 import signal
