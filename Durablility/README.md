@@ -71,7 +71,4 @@ Run the test with HTTP Authentification
 ```bash
  python elasticsearch-stress-test.py --es_address 1.2.3.4 --indices 5 --documents 5 --clients 1 --username elastic --password changeme
 ```
-### Contribution
-You are more then welcome!
-Please open a PR or issues here.
 
